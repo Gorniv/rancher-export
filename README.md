@@ -29,6 +29,7 @@ You can compress this directory for archival by running `tar -czvf export-$(date
 ## utilities
 
 Prerequisite: `rancher-compose`. Download it from your Rancher instance.
+mac os: `brew install rancher-compose`
 
 WARNING: these tools are DANGEROUS and barely tested. Use at your own risk.
 
